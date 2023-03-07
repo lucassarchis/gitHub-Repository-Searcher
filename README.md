@@ -1,6 +1,10 @@
 # Informações Básicas
 Esse projeto foi gerado utilizando AngularJS, HTML, CSS e um pouco de Bootstrap.
 
+O projeto se encontra no meu link pessoal:
+
+www.lucassarchis.com/angularjs
+
 ## Iniciar server de desenvolvimento
 
 Para iniciar o server de desenvolvimento, usei a extensão do VSCode chamada "Live Server" [ID: ritwickdey.LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
